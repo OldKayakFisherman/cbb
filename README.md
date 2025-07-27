@@ -52,9 +52,9 @@ This command starts the pipeline, API, frontend, PostgreSQL, and Metabase contai
 
 ## Access the Application:
 
-- Frontend: http://localhost:\<frontend-port>\
-- API: http://localhost:\<api-port>\
-- Metabase: http://localhost:\<metabase-port>\
+- Frontend: http://localhost:\<frontend-port\>
+- API: http://localhost:\<api-port\>
+- Metabase: http://localhost:\<metabase-port\>
 
 ## Development Workflow
 
